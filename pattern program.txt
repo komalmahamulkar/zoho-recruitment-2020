@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int n,a,b,i=1;
+printf("enter  N for lines");
+scanf("%d",&n);
+for(a=0;a<=n,a++;a++printf("\n"))
+for(b=n;b>a;b--)
+if(a<b)
+printf(" ");
+else
+printf("%d",i++);
+
+}
